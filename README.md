@@ -111,7 +111,7 @@ The included `summary.txt` was produced with ProVerif 2.00. Rerun with your inst
 
 ```bibtex
 @inproceedings{shakib-rb2k,
-  author = {Kazi Hassan Shakib and Arslan Munir},
+  author = {Kazi Hassan Shakib, Muhammad Asfand Hafeez and Arslan Munir},
   title  = {Securing {QKD}-Based {DNP3} Communications: Gateway Attacks and Compromise-Resistant Key Delivery},
   note   = {Under review}
 }
