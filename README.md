@@ -1,7 +1,7 @@
 # QKD key delivery into DNP3 Secure Authentication: attacks, RB2K, and detection
 
 Code for the paper *Securing QKD-Based DNP3 Communications: Gateway Attacks and
-Compromise-Resistant Key Delivery* (K. H. Shakib and A. Munir).
+Compromise-Resistant Key Delivery* (K. H. Shakib, M. A. Hafeez and A. Munir).
 
 When one substation gateway retrieves QKD keys for several DNP3 outstations, nothing in ETSI GS QKD
 014 or DNP3 SAv5 checks which outstation receives a given key. This repository contains:
