@@ -1,0 +1,10 @@
+# build output
+testbed/qgrid
+*.o
+# generated test credentials (recreated by mkcerts.sh)
+testbed/certs/
+# experiment outputs (regenerate with the run scripts)
+testbed/results/
+proverif/out/
+proverif/models/
+__pycache__/

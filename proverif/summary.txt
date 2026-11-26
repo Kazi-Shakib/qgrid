@@ -1,0 +1,47 @@
+gw1_unbound_S0                   0.0s  F F F F 
+gw1_unbound_S1                   0.0s  F F F F 
+gw1_unbound_S2                   0.0s  F F F F 
+gw1_unbound_S3                   0.0s  F F F F 
+gw1_unbound_S4                   0.0s  F F F F 
+gw1_bound_S0                     0.0s  T T T 
+gw1_bound_S1                     0.0s  F F F F 
+gw1_bound_S2                     0.0s  F F F F 
+gw1_bound_S3                     0.0s  F F F F 
+gw1_bound_S4                     0.0s  T T T 
+p2_nobind_S0                     0.1s  F F F F 
+p2_nobind_S1                     0.1s  F F F F 
+p2_nobind_S2                     0.1s  F F F F 
+p2_nobind_S3                     0.1s  F F F F 
+p2_nobind_S4                     0.1s  F F F F 
+p2_retain_S0                     0.1s  T T T 
+p2_retain_S1                     0.0s  T T T 
+p2_retain_S2                     0.1s  F F F F 
+p2_retain_S3                     0.1s  F F T 
+p2_retain_S4                     0.1s  T T T 
+p2_netrcpt_S0                    0.0s  T T T 
+p2_netrcpt_S1                    0.1s  T T T 
+p2_netrcpt_S2                    0.0s  F F F F 
+p2_netrcpt_S3                    0.1s  T T T 
+p2_netrcpt_S4                    0.3s  F F ? ? 
+rb2k_S0                          0.1s  T T T T T T F F 
+rb2k_S1                          0.2s  T T T T T T F F 
+rb2k_S2                          0.1s  F F F F 
+rb2k_S3                          0.2s  T T T T T T F F 
+rb2k_S4                          0.1s  T T T T T T F F 
+sae_S0                           0.0s  T T T 
+sae_S1                           0.0s  T T T 
+sae_S2                           0.0s  T T T 
+sae_S3                           0.0s  T T T 
+sae_S4                           0.0s  T T T 
+relay_gw1_bound_tn0              0.0s  T T T 
+relay_gw1_bound_tn1              0.0s  F F F F 
+relay_gw1_bound_tn3              0.0s  F F F F 
+relay_sae_tn0                    0.0s  T T T 
+relay_sae_tn1                    0.0s  F F F F 
+relay_sae_tn3                    0.0s  F F F F 
+relay_rb2k_sharedT1_tn0          0.0s  T T T 
+relay_rb2k_sharedT1_tn1          0.0s  F F F F 
+relay_rb2k_sharedT1_tn3          0.0s  F F F F 
+relay_rb2k_disjoint_tn0          0.0s  T T T 
+relay_rb2k_disjoint_tn1          0.0s  T T T 
+relay_rb2k_disjoint_tn3          0.0s  F F F F 
